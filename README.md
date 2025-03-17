@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 ## How to run
 
-- [MongoDB compass must be installed]
+- MongoDB compass must be installed
 - Run [npm run dev] in one terminal and [node server.js] in another
 
