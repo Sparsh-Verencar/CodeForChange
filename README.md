@@ -11,4 +11,6 @@ Currently, two official plugins are available:
 
 - MongoDB compass must be installed
 - Run [npm run dev] in one terminal and [node server.js] in another
+- After signing in first time, please sign out once and sign in again
+  
 
